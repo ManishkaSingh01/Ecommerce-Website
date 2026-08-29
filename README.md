@@ -57,6 +57,14 @@ https://manishkasingh01.github.io/Ecommerce-Website/
 
 ---
 
+
+## 👩‍💻 Author
+Manishka Singh
+If you like this project, don't forget to ⭐ Star the repository!
+
+
+
+
 ## 📂 Project Structure
 
 ```text
