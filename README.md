@@ -14,7 +14,7 @@
 
 **ShopEase** is a modern and responsive E-Commerce Website designed to provide a smooth and user-friendly online shopping experience.
 
-The project is built using **HTML5, CSS3 and Vanilla JavaScript**, with features such as product filtering, search, shopping cart functionality and Local Storage support.
+The project is built using **HTML5, CSS3 and JavaScript**, with features such as product filtering, search, shopping cart functionality and Local Storage support.
 
 ---
 
