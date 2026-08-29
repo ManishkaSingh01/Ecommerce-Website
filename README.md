@@ -63,7 +63,7 @@ https://manishkasingh01.github.io/Ecommerce-Website/
 
 If you like this project, don't forget to ⭐ Star the repository!
 
-
+---
 
 
 ## 📂 Project Structure
