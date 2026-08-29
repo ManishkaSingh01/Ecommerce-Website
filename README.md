@@ -35,6 +35,17 @@ HTML5, CSS3 and JavaScript.
 - Google Fonts
 - Local Storage API
 
+- Technology
+Used For
+🟧 HTML5
+Website Structure
+🟦 CSS3
+Styling & Responsive Layout
+🟨 JavaScript
+Functionality & Cart
+🐙 GitHub
+Project Hosting
+
 ## 📂 Project Structure
 
 ```text
