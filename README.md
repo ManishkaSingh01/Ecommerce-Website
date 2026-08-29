@@ -35,11 +35,6 @@ HTML5, CSS3 and JavaScript.
 - Google Fonts
 - Local Storage API
 
-- Technology     Used For
-🟧 HTML5        Website Structure
-🟦 CSS3         Styling & Responsive Layout
-🟨 JavaScript   Functionality & Cart
-🐙 GitHub       Project Hosting
 
 ## 📂 Project Structure
 
@@ -50,3 +45,35 @@ ecommerce-website/
 ├── style.css
 ├── script.js
 └── README.md
+
+🚀 Run Locally
+1. Clone Repository
+git clone https://github.com/ManishkaSingh01/Ecommerce-Website.git
+2. Open Project
+cd Ecommerce-Website
+3. Run Website
+Open index.html in your browser.
+📱 Responsive Design
+The website is designed for:
+📱 Mobile
+📲 Tablet
+💻 Laptop
+🖥️ Desktop
+🎯 Project Objective
+The objective of this project is to create a modern and attractive E-Commerce website while practicing front-end development using HTML, CSS and JavaScript.
+🔮 Future Improvements
+🔐 User Authentication
+💳 Payment Gateway
+📦 Order Management
+👤 User Profile
+🗄️ Backend & Database
+⭐ Product Reviews & Ratings
+🔍 Advanced Product Search
+🧾 Order History
+👨‍💻 Author
+Manishka Singh
+🐙 GitHub:
+ManishkaSingh01
+⭐ Show Your Support
+If you like this project, please give it a ⭐ Star on GitHub.
+
