@@ -62,7 +62,7 @@ https://manishkasingh01.github.io/Ecommerce-Website/
 ### Manishka Singh
 
 If you like this project, don't forget to ⭐ Star the repository!
-![Home Page](screenshots/home.png)
+![Home Page](ss.png)
 
 
 
