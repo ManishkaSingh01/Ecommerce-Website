@@ -5,10 +5,6 @@ HTML5, CSS3 and JavaScript.
 
 ## 🌐 Live Demo
 
-After enabling GitHub Pages, add your live website URL here.
-
-Example:
-
  https://manishkasingh01.github.io/Ecommerce-Website/
 
 ## ✨ Features
