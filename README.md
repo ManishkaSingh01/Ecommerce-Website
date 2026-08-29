@@ -8,12 +8,6 @@
   Built with ❤️ using HTML5, CSS3 & JavaScript
 </p>
 
-<p align="center">
-  <a href="https://manishkasingh01.github.io/Ecommerce-Website/">
-    🚀 <strong>Live Demo</strong>
-  </a>
-</p>
-
 ---
 
 ## 📌 About The Project
