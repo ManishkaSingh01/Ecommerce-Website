@@ -63,7 +63,7 @@ https://manishkasingh01.github.io/Ecommerce-Website/
 
 If you like this project, don't forget to ⭐ Star the repository!
 
-<img src="ss.png">
+<img src="ss.png" name="a1" width ="10%" height="10%">
 
 
 ![Home Page](ss.png)
