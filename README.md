@@ -9,7 +9,7 @@ After enabling GitHub Pages, add your live website URL here.
 
 Example:
 
-https://yourusername.github.io/ecommerce-website/
+ https://manishkasingh01.github.io/Ecommerce-Website/
 
 ## ✨ Features
 
