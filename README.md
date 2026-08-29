@@ -33,7 +33,7 @@ HTML5, CSS3 and JavaScript.
 - CSS3
 - JavaScript
 - Google Fonts
-- Local Storage API
+
 
 
 ## 📂 Project Structure
