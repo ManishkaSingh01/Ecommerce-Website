@@ -1,4 +1,4 @@
-# 🛒 ShopEase - E-Commerce Website
+<img width="1513" height="696" alt="Screenshot 2026-08-29 125042" src="https://github.com/user-attachments/assets/eafc434b-0a39-4d40-b559-c958a3dea96b" /># 🛒 ShopEase - E-Commerce Website
 
 A modern, responsive and user-friendly e-commerce website built using
 HTML5, CSS3 and JavaScript.
@@ -6,6 +6,15 @@ HTML5, CSS3 and JavaScript.
 ## 🌐 Live Demo
 
  https://manishkasingh01.github.io/Ecommerce-Website/
+   WEBSITE PREVIEW
+<div align="center">
+<img src="Screenshot 2026-08-29 125042.png"
+alt=ShopEase E commerce Website"
+width="95%">
+</div>
+
+
+
 
 ## ✨ Features
 
