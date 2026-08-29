@@ -1,3 +1,87 @@
+# 🛒 ShopEase — E-Commerce Website
+
+<p align="center">
+  <strong>A modern, responsive and user-friendly E-Commerce Website</strong>
+</p>
+
+<p align="center">
+  Built with ❤️ using HTML5, CSS3 & JavaScript
+</p>
+
+<p align="center">
+  <a href="https://manishkasingh01.github.io/Ecommerce-Website/">
+    🚀 <strong>Live Demo</strong>
+  </a>
+</p>
+
+---
+
+## 📌 About The Project
+
+**ShopEase** is a modern and responsive E-Commerce Website designed to provide a smooth and user-friendly online shopping experience.
+
+The project is built using **HTML5, CSS3 and Vanilla JavaScript**, with features such as product filtering, search, shopping cart functionality and Local Storage support.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Visit Website:**  
+https://manishkasingh01.github.io/Ecommerce-Website/
+
+---
+
+## ✨ Features
+
+- 🛍️ Product listing
+- 📂 Product categories
+- 🔎 Product search
+- 🎯 Product filtering
+- 🛒 Add products to cart
+- ➕ Increase product quantity
+- ➖ Decrease product quantity
+- 🗑️ Remove products from cart
+- 💰 Automatic cart total calculation
+- 💾 Cart data stored using Local Storage
+- 📱 Mobile navigation
+- 📩 Contact form
+- 📱 Fully responsive layout
+- 🌙 Modern dark UI
+- 🚀 GitHub Pages compatible
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| 🌐 HTML5 | Website structure |
+| 🎨 CSS3 | Styling & responsive design |
+| ⚡ JavaScript | Functionality & interactivity |
+| 🔤 Google Fonts | Typography |
+| 💾 Local Storage | Cart data persistence |
+
+---
+
+## 📂 Project Structure
+
+```text
+Ecommerce-Website/
+│
+├── 📄 index.html
+├── 🎨 style.css
+├── ⚡ script.js
+└── 📖 README.md
+
+
+
+
+
+
+
+
+
+
 
 # 🛒 ShopEase - E-Commerce Website
 
